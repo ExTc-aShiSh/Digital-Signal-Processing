@@ -12,27 +12,17 @@ This repository is created and maintained as part of my **academic learning curr
 
 ---
 
-## Core Topics & Coverage
 
-The codebase covers key concepts in Digital Signal Processing using MATLAB, including:
-
-* **Basic Discrete-Time Signals**: Generation of unit impulse, unit step, ramp, sinusoidal, and exponential sequences.
-* **Signal Operations & Systems**: Time shifting, scaling, reversal, linearity, and time-invariance verification.
-* **Convolution & LTI Systems**: Implementation of linear convolution, circular convolution, and system response evaluation.
-* **Frequency Domain Analysis**: Discrete Fourier Transform (DFT), Fast Fourier Transform (FFT), and Discrete-Time Fourier Transform (DTFT).
-* **Z-Transform Analysis**: Pole-zero mapping, stability determination, and Region of Convergence (ROC) visualization.
-* **Digital Filter Design**:
-  * **FIR Filters**: Design using windowing techniques (Rectangular, Hamming, Hanning, Blackman, etc.).
-  * **IIR Filters**: Butterworth and Chebyshev filter design using Bilinear Transformation and Impulse Invariance methods.
-
----
 
 ## Requirements
 
 To run the MATLAB scripts in this repository:
 
 * **MATLAB** (R2020b or newer recommended)
-* **Signal Processing Toolbox**
+OR
+* **GNU Octave** (free and open-source MATLAB alternative)
+OR
+* **MATLAB ONLINE**
 
 ---
 
@@ -47,6 +37,13 @@ To run the MATLAB scripts in this repository:
 
 ---
 
-## Academic Disclaimer
+## LICENSE
 
-This project is intended solely for educational purposes. Feel free to use the code as a reference for learning DSP concepts and MATLAB implementations.
+This project is intended solely for educational purposes under an MIT License. Feel free to use the code as a reference for learning DSP concepts and MATLAB implementations.Pull requests are welcomed , your contributions will be valued. 
+
+<div align="center">
+
+
+**Made with ❤️ by Ashish**
+
+</div>
